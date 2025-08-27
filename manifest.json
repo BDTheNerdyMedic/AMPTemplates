@@ -1,9 +1,11 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "958ec3e5-799f-4e3c-84f1-7d95d8141b5d",
+	"authors": [
+		"BDTheNerdyMedic"
+	],
+	"origin": "https://github.com/BDTheNerdyMedic/AMPTemplates.git",
+	"url": "https://github.com/BDTheNerdyMedic/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "BDTheNerdyMedic",
 	"repotype": "AppTemplates"
 }

@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Secret Key",
+        "Category": "Server Settings",
+        "Description": "playit.gg secret key for agent authentication",
+        "Keywords": "secret,key",
+        "FieldName": "SecretKey",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "SecretKey",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "your-secret-key-here",
+        "Placeholder": "your-secret-key-here",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Agent Version",
+        "Category": "Server Settings",
+        "Description": "playit.gg agent version",
+        "Keywords": "agent,version",
+        "FieldName": "",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "latest",
+        "Placeholder": "latest",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]

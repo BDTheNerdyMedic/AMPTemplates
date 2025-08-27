@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "Download playit.gg Agent",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "playit-windows-x86_64.exe",
+        "UpdateSourceArgs": "playit-cloud/playit-agent",
+        "UpdateSourceVersion": "{{Version}}",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
