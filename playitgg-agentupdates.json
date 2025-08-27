@@ -7,7 +7,7 @@
         "UpdateSourceArgs": "playit-cloud/playit-agent",
         "UpdateSourceVersion": "{{Version}}",
         "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
+        "OverwriteExistingFiles": true,
         "DeleteAfterExtract": true,
         "OneShot": false
     }
