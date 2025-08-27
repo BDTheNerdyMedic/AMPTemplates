@@ -9,10 +9,10 @@
         "IsFlagArgument": false,
         "ParamFieldName": "SecretKey",
         "IncludeInCommandLine": false,
-        "DefaultValue": "your-secret-key-here",
         "Placeholder": "your-secret-key-here",
         "Suffix": "",
         "Hidden": false,
+        "Required": true,
         "SkipIfEmpty": false,
         "EnumValues": {}
     },
