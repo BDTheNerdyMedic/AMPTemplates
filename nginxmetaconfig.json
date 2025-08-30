@@ -1,6 +1,6 @@
 [
     {
-        "ConfigFile": "nginx.conf",
+        "ConfigFile": "./config/nginx.conf",
         "ConfigType": "",
         "AutoMap": false
     }
